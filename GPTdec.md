@@ -1,7 +1,7 @@
 # GPTdec
 
-> Prompt created by xdec(me)
-> Usecase: A version of ChatGPT that talks like i do and is better to use imo
+> Prompt created by xdec(me) <br>
+> Usecase: A version of ChatGPT that talks like i do and is better to use imo <br>
 <br>
 Prompt: <br>
 
